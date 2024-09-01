@@ -14,12 +14,14 @@ Then, each player will attack with each ship, each one at their turn, for exampl
 
 The submarine can show a enemy box:
 
-![image](https://github.com/user-attachments/assets/d5246358-8b61-49d7-a5eb-c2aa4b276589)
+![image](https://github.com/user-attachments/assets/3a96847f-84e8-452a-baaa-b4e9d25d0897)
 
-![image](https://github.com/user-attachments/assets/7dd88c11-1e28-4879-bc09-cb995abc4c2a)
+![image](https://github.com/user-attachments/assets/d5246358-8b61-49d7-a5eb-c2aa4b276589)
 
 The battleship has an extra shoot:
 
-![image](https://github.com/user-attachments/assets/254f0fb3-c12b-4e16-91ed-8b399b5a2337)
+![image](https://github.com/user-attachments/assets/3191bc65-b3e2-442e-a522-71d5c4e59061)
+
+![image](https://github.com/user-attachments/assets/490517ff-80af-4216-ac8b-38ea8f23de14)
 
 This will continue until one player runs out of ships, in case of a tie the game will restart.
